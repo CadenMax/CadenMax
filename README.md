@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Purple Palace](http://www.github.com/CadenMax/ThePurplePalace)
 
-- 🖥️ Check out my portfolio at [cadenmax.com](http://www.cadenmax.com)
+- 🖥️ Check out my portfolio at [cadenmax.com](http://cadenmax.com)
 
 - 👨‍💻 All of my projects are available via my [Repositories](http://www.github.com/CadenMax)
 
