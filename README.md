@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available via my [Repositories](http://www.github.com/CadenMax)
 
-- 📫 Creach me via [Email](mailto:github.estate971@passmail.net)
+- 📫 Reach me via [Email](mailto:github.estate971@passmail.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
