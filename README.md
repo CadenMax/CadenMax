@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Caden Maxwell</h1>
 <h3 align="center">A passionate developer who is always looking for the next best thing.</h3>
 
-- 🔭 I’m currently working on [The Purple Palace](http://www.github.com/CadenMax/ThePurplePalace)
-
 - 🖥️ Check out my portfolio at [cadenmax.com](http://cadenmax.com)
 
 - 👨‍💻 All of my projects are available via my [Repositories](http://www.github.com/CadenMax)
 
-- 📫 Reach me via [Email](mailto:github.estate971@passmail.net)
+- 📫 Reach me via [Email](mailto:cadenmax@pm.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
