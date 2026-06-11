@@ -29,7 +29,6 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> 
         <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
         <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
-        <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> 
         <img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/> </a> 
         <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> 
