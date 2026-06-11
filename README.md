@@ -6,11 +6,11 @@
 
 - 🌱 I'm currently learning **Self Hosting, Linux, Docker, JavaScript**
 
-- 👯 I'm looking to collaborate on **Open source projects that benefit from disconnecting from the big wigs**
+- 👯 I'm looking to collaborate on **Open source projects**
 
 - 📫 How to reach me **cadenmax@pm.me**
 
-- 👨‍💻 All of my projects are available at **[https://cadenmax.com](https://cadenmax.com)**
+- 👨‍💻 View my Portfolio at **[https://cadenmax.com](https://cadenmax.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
